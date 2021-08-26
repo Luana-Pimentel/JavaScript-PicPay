@@ -1,0 +1,33 @@
+body{
+    background-color: #21c25e;
+    color: black;
+    font: normal 15pt sans-serif;
+    margin: 20px;
+    height: 50%;
+    width:  50%;
+}
+
+.imagem, h2 {
+    display: inline-block;
+}
+h2 {
+    color: #FFFFFF;
+    text-align: left;
+    
+}
+
+.imagem {
+    position: absolute;
+    right: 0;
+    margin: 50px;
+}
+
+td, table {
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+    text-align: center;
+    width: 1200px;
+}
+
+
+
